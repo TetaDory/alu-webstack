@@ -1,1 +1,1 @@
-https_ssl
+Hypertext Transfer Protocol Secure_Secure Sockets Layer
